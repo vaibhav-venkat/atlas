@@ -1,0 +1,4 @@
+(executable
+ (public_name Atlas)
+ (name main)
+ (libraries Atlas))
