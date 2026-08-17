@@ -1,0 +1,25 @@
+AGENTS.md
+  s_9d58ebb97fc31c::t_a5274f6c174315 25-208,211-319
+  s_9d58ebb97fc31c::t_c75d91649e501f 5-6,8-9,11,17-19,209-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ef2a74421a62fcdac12f3db6ef7a666f6a7ca785",
+  "prompts": {},
+  "humans": {
+    "h_ae0d73712e04f4": {
+      "author": "Vaibhav Venkat <vaibhav@vaibhavvenkat.com>"
+    }
+  },
+  "sessions": {
+    "s_9d58ebb97fc31c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ced-7e12-7eb3-9f1e-57a1d5f1cb71",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vaibhav Venkat <vaibhav@vaibhavvenkat.com>"
+    }
+  }
+}
